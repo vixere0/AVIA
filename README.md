@@ -1,6 +1,6 @@
 # AVIA
 AVIA (Autonomous Vehicle Intelligence Agent) is an advanced diagnostic framework designed for predictive maintenance in industrial and autonomous systems. The project bridges the gap between high-performance "black-box" models and actionable engineering decisions by integrating deep learning with agentic workflows. 
-# ⚙️ AVIA: Autonomous Vehicle Intelligence Agent
+#  AVIA: Autonomous Vehicle Intelligence Agent
 
 **AVIA** is an advanced hybrid diagnostic system designed for predictive maintenance in industrial and autonomous vehicle environments. It bridges the gap between traditional machine learning and modern **Agentic AI workflows**[cite: 4].
 
